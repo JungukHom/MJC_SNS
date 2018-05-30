@@ -1,3 +1,3 @@
 # MJC_SNS
 
-Made my Junguk Hom.
+Made by Junguk Hom.
